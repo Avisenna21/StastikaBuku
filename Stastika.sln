@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stastika", "Stastika.csproj", "{434821BA-8457-40EB-BA31-0BC509D43ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{434821BA-8457-40EB-BA31-0BC509D43ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434821BA-8457-40EB-BA31-0BC509D43ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434821BA-8457-40EB-BA31-0BC509D43ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434821BA-8457-40EB-BA31-0BC509D43ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DBCE07-47ED-4775-8E3C-9EA9F9AD7039}
+	EndGlobalSection
+EndGlobal
